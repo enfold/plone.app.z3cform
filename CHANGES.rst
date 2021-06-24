@@ -8,6 +8,13 @@ Changelog
 
 .. towncrier release notes start
 
+3.2.2+enfold1 (Unreleased)
+--------------------------
+
+- Backport fix for #121
+  [enfold-josh]
+
+
 3.2.2 (2020-08-21)
 ------------------
 
