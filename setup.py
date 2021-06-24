@@ -8,7 +8,7 @@ def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
 
 
-version = '3.2.2+enfold1'
+version = '3.2.2+enfold2.dev0'
 
 long_description = (
     read('README.rst') +
